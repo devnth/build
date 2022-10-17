@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4664f4a4.css",
+    "main.js": "/static/js/main.1bc3b909.js",
+    "static/media/mainLogo.png": "/static/media/mainLogo.3a5b2f36d4aabf59834b.png",
+    "static/media/Login-background.jpg": "/static/media/Login-background.288c0aafe39fe81894f4.jpg",
+    "static/media/chapter-card1.png": "/static/media/chapter-card1.f05439811b4618a52fe9.png",
+    "static/media/chapter-card2.png": "/static/media/chapter-card2.45d76c1f390390e6fd8e.png",
+    "static/media/admin-logo.jpg": "/static/media/admin-logo.d901196fd18faaee827a.jpg",
+    "index.html": "/index.html",
+    "main.4664f4a4.css.map": "/static/css/main.4664f4a4.css.map",
+    "main.1bc3b909.js.map": "/static/js/main.1bc3b909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4664f4a4.css",
+    "static/js/main.1bc3b909.js"
+  ]
+}
